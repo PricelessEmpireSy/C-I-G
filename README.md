@@ -14,7 +14,7 @@ This project is a Python-based tool that gathers basic information about a conta
 ## Technologies Used
 
 - **Python**: The core programming language for the project.
-- **requests**: Library for making HTTP requests.
+- **requests**: Library for making HTTP requests...
 - **BeautifulSoup**: Library for web scraping and parsing HTML.
 - **phonenumbers**: Library for parsing and formatting phone numbers.
 
